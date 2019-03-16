@@ -13,3 +13,4 @@ if __name__ == '__main__':
     # 指定结束下标并结束执行计数
     num2=nstr.count("hehe",2,27)
     print(num2)
+    print("")
